@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+}
+td{
+    vertical-align: top;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+h1, h2{
+    background-color: #E6E6E6;
+    color:#005677;
+}
+
+.logo{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+.logo img{
+    width: 70px;
+}
+
+.footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    vertical-align: center;
+}
+
+div img{
+    
+    width: 20px;
+}
